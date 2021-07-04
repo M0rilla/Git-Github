@@ -1,9 +1,18 @@
-#Photo-Portfolio
+# Git - GitHub
 
-> A simple, single page responsive site template by HTML5 UP.
+## 💻 Projeto
 
-Big Picture by HTML5 UP
+A proposta do projeto foi estudar sobre a ferramenta de controle de versão e como trabalhar com repositórios remotos.
+Este é um projeto focado em aprender conceitos, desenvolvido durante o curso "Git e Gihub na vida real" da Udemy.
 
-html5up.net | @ajlkn
+## 📚 Aprendizados
 
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+- Inicializar repositórios e trabalhar com branches
+- Adicionar e sincronizar repositórios remotos
+- Principais comandos.
+- Recursos avançados e Segurança no NodeJS.
+- Code Review e principais Workflows.
+
+
+
+

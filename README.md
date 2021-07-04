@@ -10,7 +10,7 @@ Este é um projeto focado em aprender conceitos, desenvolvido durante o curso "G
 - Inicializar repositórios e trabalhar com branches
 - Adicionar e sincronizar repositórios remotos
 - Principais comandos.
-- Recursos avançados e Segurança no NodeJS.
+- Resolver conflitos.
 - Code Review e principais Workflows.
 
 
